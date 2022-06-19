@@ -1,5 +1,4 @@
 # elixir_first_steps
-Aprendendo elixir.
-
-Estudando conceitos básicos de Elixir e aprendendo mais sobre programação funcional.
-
+#### Learning Elixir
+I've decided to study Elixir to learn more about functional programming and its advantages.<br>
+It's been a good experience so far, can't wait to start building projects with Phoenix.
